@@ -6,7 +6,6 @@
 [Исследование объявлений о продаже квартир](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/sale_of_appartments)  | Установление параметров для определения рыночной стоимости объектов недвижимости.|pandas, matplotlib, numpy
 [Исследование о закономерностях, определяющих успешность игры](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/success%20of%20the%20game)       | Выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.|pandas, matplotlib, numpy, seaborn, scipy
 [Анализ развлекательного приложения Procrastinate Pro+](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/procrastinate%20pro)    |Разобраться - почему несколько прошлых месяцев бизнес постоянно нес убытки, хотя в привлечение пользователей была вложена куча денег.| pandas, matplotlib, numpy, seaborn, scipy, datetime
-
-layout.css      | Основные стили, применительно к определённому сайту
+[Принятие решений в бизнесе](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/decision%20making)| Цель: приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты|pandas, nampy, matplotlib, seaborn, cipy.stats, datetime
 lightbox.css    | Стили лайтбокса, если таковой используется
 index.html      | Индексный файл для проверки вносимых изменений
