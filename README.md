@@ -1,9 +1,9 @@
 # Yandex-Practicum-example_repository
 Название проекта  |Описание|Используемые библиотеки
 ----------------|-----------------|----
-[Музыка больших городов](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/music_of_big_city)          |Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница) |Pandas
-[Исследование надежности заемщиков](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/reliabillity_of_borrowers)       |Сравнение платежеспособности клиентов в зависимости от семейного положения, количества детей, уровня дохода и целей кредита |Pandas
-normalize.css   | Нормалайзер CSS от Nicolas Gallagher
+[Музыка больших городов](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/music_of_big_city)          |Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница) |pandas
+[Исследование надежности заемщиков](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/reliabillity_of_borrowers)       |Сравнение платежеспособности клиентов в зависимости от семейного положения, количества детей, уровня дохода и целей кредита |pandas
+[Исследование объявлений о продаже квартир](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/sale_of_appartments)  | Установление параметров для определения рыночной стоимости объектов недвижимости.|pandas, matplotlib, numpy
 block.css       | Основные стили блоков системы
 addition.css    | Дополнительные стили
 fontawesome.css | Стили иконочного шрифта
