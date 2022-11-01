@@ -1,6 +1,7 @@
 # Yandex-Practicum-example_repository
 Название проекта  |Описание|Используемые библиотеки
 ----------------|-----------------|----
+[Проект - анализ рекламных источников мобильной игры](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/blob/main/game%20marketing/game%20marketing.ipynb)| Задача: Проанализировать поведение игроков в зависимости от источника перехода для оптимизации расходов на маркетинг.| pandas, datetime, numpy, matplotlib, scipy.stats, cmath, plotly, statsmodels, seaborn 
 [Музыка больших городов](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/music_of_big_city)          |Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница) |pandas
 [Исследование надежности заемщиков](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/reliabillity_of_borrowers)       |Сравнение платежеспособности клиентов в зависимости от семейного положения, количества детей, уровня дохода и целей кредита |pandas
 [Исследование объявлений о продаже квартир](https://github.com/SvetlanaAlekseevaa/Yandex-Practicum-example_repository/tree/main/sale_of_appartments)  | Установление параметров для определения рыночной стоимости объектов недвижимости.|pandas, matplotlib, numpy
